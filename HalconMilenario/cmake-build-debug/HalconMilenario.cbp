@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HalconMilenario"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HalconMilenario">
+				<Option output="/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/HalconMilenario" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/i386-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/i386-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 HalconMilenario"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HalconMilenario/fast">
+				<Option output="/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/HalconMilenario" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/i386-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/i386-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 HalconMilenario/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/adrian/CLionProjects/HalconMilenario/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/Structure/MainWindow.cpp">
+			<Option target="HalconMilenario"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/Structure/MainWindow.h">
+			<Option target="HalconMilenario"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/data/LinkedList.cpp">
+			<Option target="HalconMilenario"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/data/LinkedList.h">
+			<Option target="HalconMilenario"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/data/Map.cpp">
+			<Option target="HalconMilenario"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/data/Map.h">
+			<Option target="HalconMilenario"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/data/Maze.cpp">
+			<Option target="HalconMilenario"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/data/Maze.h">
+			<Option target="HalconMilenario"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/data/Nodo.cpp">
+			<Option target="HalconMilenario"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/data/Nodo.h">
+			<Option target="HalconMilenario"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/main.cpp">
+			<Option target="HalconMilenario"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/adrian/CLionProjects/HalconMilenario/cmake_modules/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

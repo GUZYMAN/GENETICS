@@ -1,0 +1,2 @@
+Options: 
+CMake: 3.10.0-rc3@/home/adrian/cmake-3.10.0-rc3/bin/cmake
